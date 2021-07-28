@@ -66,6 +66,9 @@ main {
 
 .sous img {
     margin-right: -6px;
+    height: 100%;
+    width: auto;
+    
 }
 
 .vetka-3 {
